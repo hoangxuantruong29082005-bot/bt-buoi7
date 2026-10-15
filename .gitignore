@@ -1,0 +1,24 @@
+﻿# Visual Studio & .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs & Backups
+*.log
+logs/
+lb_api_log.txt
+*.bak
+*.bak*
+
+# File nhay cam
+*cookie*.txt
+.env
+
+# Scripts
+git_push.bat
+git_push.ps1
+git_push.sh
